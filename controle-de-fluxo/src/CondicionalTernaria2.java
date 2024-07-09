@@ -1,5 +1,5 @@
-//Cenário 3
-public class resultadoEscolarCenarioTres {
+//Cenário 2
+public class CondicionalTernaria2 {
     public static void main(String[] args) {
 		int nota = 6;
 		String resultado = nota >=7 ? "Aprovado" : nota >=5 && nota <7 ? "Recuperação" : "Reprovado";

@@ -1,4 +1,4 @@
-public class caixaEletronico {
+public class If {
     public static void main(String[] args) {
         double saldo = 25.0;
         double valorSolicitado = 17.0;
@@ -10,4 +10,4 @@ public class caixaEletronico {
             }
     }  
 }
-//Condicional Simples 
+//Condicional Simples (If)

@@ -1,4 +1,4 @@
-public class resultadosEscolares {
+public class CondicionalEncadeada {
     public static void main(String[] args) {
         int nota = 4;
 
